@@ -1,6 +1,6 @@
 ## Markov Model TS
 
-Inspired by (https://github.com/susam/mvs/blob/main/mvs)[https://github.com/susam/mvs/blob/main/mvs], this library is a basic implementation of a Markov model, used to generate text on a specified corpus.
+Inspired by [https://github.com/susam/mvs/blob/main/mvs](https://github.com/susam/mvs/blob/main/mvs), this library is a basic implementation of a Markov model, used to generate text on a specified corpus.
 
 ### Usage
 
